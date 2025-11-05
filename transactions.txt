@@ -1,0 +1,8 @@
+Deposit: +150.75New balance: 650.75
+Purchase: -25.50 (Gold bean cafe) new balance: 625.25
+Deposit: +200.00New balance: 825.25
+Purchase: -50.00 (trader joes) new balance: 775.25
+Deposit: +150.75New balance: 650.75
+Purchase: -25.50 (Gold bean cafe) new balance: 625.25
+Deposit: +200.00New balance: 825.25
+Purchase: -50.00 (trader joes) new balance: 775.25
