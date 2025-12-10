@@ -1,0 +1,6 @@
+2
+Checking,1584,2
+2025-12-10,Income,Job Income,Gold Bean Cafe,648.500000
+2025-12-10,Expense,Shopping,Aritzia,64.500000
+Savings,1500,1
+2025-12-10,Income,Investment,Stocks,500.000000
